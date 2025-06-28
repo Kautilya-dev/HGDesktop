@@ -1,0 +1,44 @@
+<!-- assets/partials/header.html -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
+  <a class="navbar-brand" href="#" onclick="navigateTo('index.html')">
+    <i class="fas fa-user-secret me-2"></i>HireGhost
+  </a>
+
+  <!-- Hamburger -->
+  <button class="navbar-toggler" type="button"
+          data-bs-toggle="collapse" data-bs-target="#navMenu"
+          aria-controls="navMenu" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <!-- Collapsible nav -->
+  <div class="collapse navbar-collapse" id="navMenu">
+    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+      <li class="nav-item">
+        <a class="nav-link" href="#" onclick="navigateTo('resume.html')">Create Resume</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" onclick="navigateTo('resumes.html')">My Resumes</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" onclick="navigateTo('chat.html')">AI Chat</a>
+      </li>
+    </ul>
+
+    <!-- Desktop controls -->
+    <div class="d-flex align-items-center gap-2 ms-lg-3">
+      <!-- Stealth toggle -->
+      <button id="stealthBtn" class="btn btn-outline-light btn-sm" onclick="toggleStealth()">
+        <i class="fas fa-eye me-1"></i> Stealth Off
+      </button>
+      <!-- Minimise -->
+      <button class="btn btn-sm btn-outline-light" title="Minimise" onclick="minimiseWindow()">
+        <i class="fas fa-window-minimize"></i>
+      </button>
+      <!-- Close -->
+      <button class="btn btn-sm btn-danger" title="Close App" onclick="closeWindow()">
+        <i class="fas fa-times"></i>
+      </button>
+    </div>
+  </div>
+</nav>

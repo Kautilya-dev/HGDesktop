@@ -1,0 +1,56 @@
+{
+  "displayName": "KC Resume (Copy)",
+  "name": "KrishnaChaitanya",
+  "email": "kkollu99@gmail.com",
+  "phone": "8121499929",
+  "skills": "Python, React",
+  "education": [
+    {
+      "degree": "Btech",
+      "institution": "IIT Hyd",
+      "year": "2010"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Web Developer",
+      "company": "Infosys",
+      "years": "2 years"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Real Time Scenario 1",
+      "text": "Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 "
+    },
+    {
+      "title": "Real Time Scenario 2 ",
+      "text": "Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 "
+    },
+    {
+      "title": "Real Time Scenario 3",
+      "text": "Real Time Scenario 2 "
+    }
+  ],
+  "_sourceFile": "resume-1750980545086.json",
+  "jobDescriptions": [
+    {
+      "id": 1751016311107,
+      "title": "Description",
+      "company": "Description",
+      "description": "Description",
+      "requirements": "Description",
+      "location": "Description",
+      "createdAt": "2025-06-27T09:25:11.108Z"
+    },
+    {
+      "id": 1751016698410,
+      "title": "Welcome to HireGhost",
+      "company": "HireGhost",
+      "description": "Welcome to HireGhost",
+      "requirements": "Welcome to HireGhost",
+      "location": "Welcome to HireGhost",
+      "createdAt": "2025-06-27T09:31:38.410Z"
+    }
+  ]
+}

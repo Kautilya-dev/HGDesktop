@@ -1,0 +1,31 @@
+{
+  "displayName": "KC Resume 2",
+  "name": "KrishnaChaitanya",
+  "email": "kkollu99@gmail.com",
+  "phone": "8121499929",
+  "skills": "Python, React",
+  "education": [
+    {
+      "degree": "Btech",
+      "institution": "IIT Hyd",
+      "year": "2010"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Web Developer",
+      "company": "Infosys",
+      "years": "2 years"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Real Time Scenario 1",
+      "text": "Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 Real Time Scenario 1 "
+    },
+    {
+      "title": "Real Time Scenario 2 ",
+      "text": "Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 Real Time Scenario 2 "
+    }
+  ]
+}

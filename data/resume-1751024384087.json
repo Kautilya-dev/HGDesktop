@@ -1,0 +1,29 @@
+{
+  "displayName": "Raju Resumee (Copy)",
+  "name": "Raju Resumee",
+  "email": "Raju@gmail.com",
+  "phone": "1234567890",
+  "skills": "Python",
+  "education": [
+    {
+      "degree": "Raju Resumee",
+      "institution": "Raju Resumee",
+      "year": "2010"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Raju Resumee",
+      "company": "Raju ResumeeRaju Resumee",
+      "years": "Raju Resumee"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Raju Resumee",
+      "text": "Raju Resumee"
+    }
+  ],
+  "_sourceFile": null,
+  "jobDescriptions": []
+}

@@ -1,0 +1,23 @@
+/* assets/css/style.css */
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+}
+
+main {
+  padding-top: 40px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+.btn-lg {
+  padding: 12px 24px;
+  font-size: 1.1rem;
+}
+#stealthBtn {
+  min-width: 100px;
+}
